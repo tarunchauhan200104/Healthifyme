@@ -24,7 +24,6 @@ Follow These Steps:
 * Submit your details.
 * Ask your question on the main page.
 * Click on Generate and Relax.'''
-st.write(f':green[{tips}]')
 
 # Design the sidebar for all the user parameters
 st.sidebar.header(':red[ENTER YOUR DETAILS]')
